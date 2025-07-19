@@ -1,8 +1,9 @@
 # My Personal Modern Portfolio Website With Using React & TailwindCSS
 
-![Contact](https://github.com/user-attachments/assets/29f7d241-4ebb-451b-918d-256a1763ee2e)
+
 ![Intro](https://github.com/user-attachments/assets/65b58a8d-5e99-482c-aa4c-ac97bb38c3b6)
 ![Projects](https://github.com/user-attachments/assets/8e450eff-dc79-4d8e-9683-d3a10b370ea6)
+![Contact](https://github.com/user-attachments/assets/29f7d241-4ebb-451b-918d-256a1763ee2e)
 
 
 ⚙️ Tech Stack
